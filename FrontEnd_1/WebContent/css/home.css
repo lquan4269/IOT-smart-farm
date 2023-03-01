@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+
+body{
+	margin:0px;
+	padding:0px;
+		
+}
+
+#wrap {
+	
+	width: 960px;
+	height: 800px;
+	background-color: black; /* #000000*/
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+#left {
+	width: 300px;
+	height: 800px;
+	background-color: #dedede;
+	float: left;
+	/*text-align: center;*/
+}
+#right{
+	width: 660px;
+	height: 800px;
+	background-color: #0000FF;
+	float:left;
+}
+
+.subname{
+	color: orange;
+}
+.img_avatar{
+	height: 150px;
+	width: 300px;
+}
